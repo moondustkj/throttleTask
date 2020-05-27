@@ -1,0 +1,42 @@
+@import '../../misc/variables';
+.Modal{
+	    position: absolute !important;
+	    display: block;
+	    margin: 5em;
+	    z-index: 2;
+    	background-color: aliceblue;
+    .Info{
+    	background-color: aliceblue;
+    	padding: 2em;
+    }
+}
+.header{
+	display: flex;
+	img{
+		margin-left: 3em;
+		cursor: pointer;
+	}
+}
+h3{
+	font-family: $heading;
+	color: $color1;
+}
+ul{
+	border-radius: 5px;
+}
+.activities{
+	li{
+		list-style: square;
+		padding: 1em;
+		font-family: $text;
+	}
+}
+.cross{
+	cursor: pointer;
+	color: #900;
+	font-weight: bold;
+	position: absolute;
+	font-size: 2em;
+	right: 3%;
+	top: 3%;
+}

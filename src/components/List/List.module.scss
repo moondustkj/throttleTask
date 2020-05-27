@@ -1,0 +1,46 @@
+@import '../../misc/variables';
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Roboto&display=swap');
+
+.name{
+	font-family: 'Merriweather', serif;
+}
+.userdiv{
+	color: white;
+	padding: 2em 1em 0 3em;
+    border-bottom-left-radius: 5em;
+    position: relative;
+    height: 9em;
+    &:hover{
+    	cursor: pointer;
+		opacity: 0.8;
+    }
+	li{
+		list-style: none;
+		font-family: 'Roboto', sans-serif;
+	}
+}
+.top{
+	margin: 2em auto;
+}
+.userdiv:nth-child(odd){
+	background-color: $color2;
+}
+.userdiv:nth-child(even){
+	background-color: $color3;
+}
+.userimg{
+    position: relative;
+    right: -80%;
+    bottom: 3.5em;
+    background-color: white;
+    padding: 1em;
+    border-radius: 50%;
+}
+.Backdrop{
+    position: absolute!important;
+    background-color: black;
+    opacity: 0.8;
+    height: 100%;
+    z-index: 1;
+    height: 150%;
+}

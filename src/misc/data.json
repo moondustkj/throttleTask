@@ -1,0 +1,76 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020 1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 11 2020 1:33PM",
+					"end_time": "Feb 11 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 13 2020 11:11AM",
+					"end_time": "Mar 13 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020 5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA8",
+			"real_name": "Harry Potter",
+			"tz": "South Korea/Seoul",
+			"activity_periods": [{
+					"start_time": "Mar 5 2020 1:33PM",
+					"end_time": "Mar 5 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 11 2020 11:11AM",
+					"end_time": "Mar 11 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 26 2020 5:33PM",
+					"end_time": "Mar 26 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA9",
+			"real_name": "Devi Vishwakumar",
+			"tz": "Asia/Chennai",
+			"activity_periods": [{
+					"start_time": "April 17 2020 1:33PM",
+					"end_time": "April 17 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020 11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "May 24 2020 5:33PM",
+					"end_time": "May 24 2020 8:02PM"
+				}
+			]
+		}
+	]
+}
