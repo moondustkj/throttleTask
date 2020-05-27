@@ -2,14 +2,13 @@
   "name": "throttle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://moondustkj.github.io/throttle-task",
+  "homepage": "http://moondustkj.github.io/throttleTask",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
     "bootstrap": "^4.5.0",
-    "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
     "moment": "^2.26.0",
     "node-sass": "^4.14.1",
@@ -29,9 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+     "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -49,6 +48,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "typescript": "^3.9.3"
   }
