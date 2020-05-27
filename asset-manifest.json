@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/throttleTask/static/css/main.b3be6795.chunk.css",
+    "main.js": "/throttleTask/static/js/main.fad4f6d6.chunk.js",
+    "main.js.map": "/throttleTask/static/js/main.fad4f6d6.chunk.js.map",
+    "runtime-main.js": "/throttleTask/static/js/runtime-main.36a73ab2.js",
+    "runtime-main.js.map": "/throttleTask/static/js/runtime-main.36a73ab2.js.map",
+    "static/css/2.9cbbadcf.chunk.css": "/throttleTask/static/css/2.9cbbadcf.chunk.css",
+    "static/js/2.5602be6a.chunk.js": "/throttleTask/static/js/2.5602be6a.chunk.js",
+    "static/js/2.5602be6a.chunk.js.map": "/throttleTask/static/js/2.5602be6a.chunk.js.map",
+    "index.html": "/throttleTask/index.html",
+    "precache-manifest.d71413004a5943eebb837fcf8d8558d3.js": "/throttleTask/precache-manifest.d71413004a5943eebb837fcf8d8558d3.js",
+    "service-worker.js": "/throttleTask/service-worker.js",
+    "static/css/2.9cbbadcf.chunk.css.map": "/throttleTask/static/css/2.9cbbadcf.chunk.css.map",
+    "static/css/main.b3be6795.chunk.css.map": "/throttleTask/static/css/main.b3be6795.chunk.css.map",
+    "static/js/2.5602be6a.chunk.js.LICENSE.txt": "/throttleTask/static/js/2.5602be6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36a73ab2.js",
+    "static/css/2.9cbbadcf.chunk.css",
+    "static/js/2.5602be6a.chunk.js",
+    "static/css/main.b3be6795.chunk.css",
+    "static/js/main.fad4f6d6.chunk.js"
+  ]
+}
